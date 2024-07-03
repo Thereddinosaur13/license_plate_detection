@@ -25,6 +25,7 @@ list_files = [
     f"{my_project_name}/pipeline/training_pipeline.py",
     f"{my_project_name}/utils/__init__.py",
     f"{my_project_name}/utils/main_utils.py",
+    "reseach/trials.ipynb",
     "templates/index.html",
     "app.py",
     "Dockerfile",
